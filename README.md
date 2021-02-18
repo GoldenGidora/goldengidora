@@ -1,6 +1,12 @@
 ### Hi there 👋
-______________________________________________________________________________________________________
-Hi, my name is Artem!
+
+
+Hi, my name is Artem! I'm 19 year old Web Developer! I like music, coding, and playing video games!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldengidora)](https://github.com/goldengidora/github-readme-stats)
+
+## Language & tools
+![Alt](https://camo.githubusercontent.com/606598742404da4e317535a8a97c42af27381de6562866f838daf88c4584689d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323053686172702d626c756576696f6c65743f7374796c653d666c61742d737175617265266c6f676f3d432d5368617270266c6f676f436f6c6f723d7768697465)
 <!--
 **GoldenGidora/goldengidora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
