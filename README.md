@@ -1,7 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋
 Hi, my name is Artem! I'm 19 year old Web Developer! I like music, coding, and playing video games! 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldengidora)](https://github.com/goldengidora/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact)](https://github.com/goldengidora/github-readme-stats)
 
 ## Language & tools
 ![Alt](https://camo.githubusercontent.com/a79326ec8d3bd24504bcbbc18049eea53674250a1e987de1b3663a2a4b00f1f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652532304a532d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
@@ -13,8 +13,8 @@ Hi, my name is Artem! I'm 19 year old Web Developer! I like music, coding, and p
 
 ## Socials
 
-* Discord:
-* Telegram:
+* Discord: https://discord.bio/p/GoldenGidora
+* Telegram: https://t.me/goldengidora
 
 <!--
 **GoldenGidora/goldengidora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
