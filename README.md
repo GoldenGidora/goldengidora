@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Hi, my name is Artem! I'm 19 year old Web Developer! I like music, coding, and playing video games! </p>
+Hi, my name is Artem! I'm 19 year old Web Developer! I like music, coding, and playing video games! 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldengidora)](https://github.com/goldengidora/github-readme-stats)
 
 ## Language & tools
