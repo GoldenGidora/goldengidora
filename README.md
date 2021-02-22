@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=goldengidora&count_private=true&show_icons=true">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&langs_count=8">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact">
 Hi, my name is Artem! I'm 19 year old Web Developer! I like music, coding, and playing video games! 
 
 ### Languages & Tools
