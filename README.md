@@ -20,8 +20,8 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&show_icons=true&theme=tokyonight" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact&theme=tokyonight" width="55%"/>
 
 ## ✉️ Contacts
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45" />](https://www.linkedin.com/in/goldengidora/)
