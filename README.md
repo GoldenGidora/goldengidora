@@ -1,14 +1,29 @@
-# Hi there 👋
+# 👋🏻 Hey, my name is Artem and I'm a JavaScript Developer!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=goldengidora&count_private=true&show_icons=true">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact">
-Hi, my name is Artem! I'm 20 year old Web Developer! I like music, coding, and playing video games! 
+### Languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 
-### Languages & Tools
-<img alt="Node JS" src="https://img.shields.io/badge/-Node%20JS-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> <!--<img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1696f5?style=flat-square&logo=vuetify&logoColor=white" />--> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/-Discord-36393F?style=flat-square&logo=discord&logoColor=white" />
+### Databases:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongo" width="45" height="45" />
 
-## Socials
+### Softwares and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45" />
 
-* Discord: https://discord.bio/p/GoldenGidora
-* Telegram: https://t.me/goldengidora
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=goldengidora&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%" alt="GoldenGidora"/>
+
+## ✉️ Contacts
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45" />](https://www.linkedin.com/in/goldengidora/)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="45" height="45" />](https://t.me/goldengidora)
