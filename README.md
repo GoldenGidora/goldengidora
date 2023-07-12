@@ -5,7 +5,7 @@
 ## 🛠️My Hard skills
 
 [<img src="https://img.shields.io/badge/HTML%20-8448ea.svg?style=for-the-badge&logo=html5" alt="html"/>]()
-[<img src="https://img.shields.io/badge/CSS%20-8448ea.svg?style=for-the-badge&logo=css3" alt="css"/>]()
+[<img src="https://img.shields.io/badge/CSS%20-8448ea.svg?style=for-the-badge&logo=css3&logoColor=blue" alt="css"/>]()
 [<img src="https://img.shields.io/badge/JAVASCRIPT%20-8448ea.svg?style=for-the-badge&logo=JavaScript" alt="js"/>]()
 [<img src="https://img.shields.io/badge/REACT%20-8448ea.svg?style=for-the-badge&logo=React" alt="react"/>]()
 [<img src="https://img.shields.io/badge/Node.JS%20-8448ea.svg?style=for-the-badge&logo=node.js" alt="nodejs"/>]()
