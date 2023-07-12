@@ -1,15 +1,22 @@
 # 👋🏻 Hey, my name is Artem and I'm a JavaScript Developer!
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Hard skills</b>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" width="45" height="45" />]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongo" width="45" height="45" />]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45" />]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="45" height="45" />]()
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+## 🛠️My Hard skills
+
+[<img src="https://img.shields.io/badge/HTML%20-8448ea.svg?style=for-the-badge&logo=html5" alt="html"/>]()
+[<img src="https://img.shields.io/badge/CSS%20-8448ea.svg?style=for-the-badge&logo=css3" alt="css"/>]()
+[<img src="https://img.shields.io/badge/JAVASCRIPT%20-8448ea.svg?style=for-the-badge&logo=JavaScript" alt="js"/>]()
+[<img src="https://img.shields.io/badge/REACT%20-8448ea.svg?style=for-the-badge&logo=React" alt="react"/>]()
+[<img src="https://img.shields.io/badge/Node.JS%20-8448ea.svg?style=for-the-badge&logo=node.js" alt="nodejs"/>]()
+[<img src="https://img.shields.io/badge/MongoDB%20-8448ea.svg?style=for-the-badge&logo=mongodb" alt="mongoDB"/>]()
+
+## Software and tools
+[<img src="https://img.shields.io/badge/GIT%20-8448ea.svg?style=for-the-badge&logo=git" alt="GIT"/>]()
+[<img src="https://img.shields.io/badge/WEBPACK%20-8448ea.svg?style=for-the-badge&logo=webpack" alt="WEBPACK"/>]()
+
+
+## 🔥Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&show_icons=true&theme=tokyonight" width="55%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact&theme=tokyonight" width="50%"/>
 
