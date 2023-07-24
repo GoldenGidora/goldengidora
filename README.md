@@ -17,8 +17,9 @@
 
 
 ## 🔥Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&show_icons=true&theme=tokyonight" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&show_icons=true&theme=tokyonight" width="50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact&theme=tokyonight" width="50%"/>
+<img src="https://www.codewars.com/users/GoldenGidora/badges/small" width="50%"/>
 
 ## ✉️ Contacts
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45" />](https://www.linkedin.com/in/goldengidora/)
