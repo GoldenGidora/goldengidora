@@ -15,10 +15,6 @@
 [<img src="https://img.shields.io/badge/GIT%20-8448ea.svg?style=for-the-badge&logo=git" alt="GIT"/>]()
 [<img src="https://img.shields.io/badge/WEBPACK%20-8448ea.svg?style=for-the-badge&logo=webpack" alt="WEBPACK"/>]()
 
-
-## 🔥Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=goldengidora&include_all_commits=true&show_icons=true&theme=tokyonight" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengidora&layout=compact&theme=tokyonight" width="50%"/>
 <img src="https://www.codewars.com/users/GoldenGidora/badges/small" width="50%"/>
 
 ## ✉️ Contacts
